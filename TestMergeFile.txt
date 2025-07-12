@@ -1,1 +1,2 @@
 New merge file added
+hello from b2
